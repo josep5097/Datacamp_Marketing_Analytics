@@ -1,0 +1,351 @@
+"Subject","Trial","Brand1","Brand2","Brand3","Price1","Price2","Price3","Type1","Type2","Type3","Selection","Response_Time"
+2401,1,"Dove","Godiva","Dove",0.6,0.7,3.6,"Milk","Dark","White",1,5210
+2401,2,"Godiva","Godiva","Hershey's",2.7,3.9,0.7,"Milk w/ Nuts","Dark","Milk w/ Nuts",2,7480
+2401,3,"Hershey's","Godiva","Hershey's",1.7,3.7,3,"Dark w/ Nuts","Dark","Dark",2,7704
+2401,4,"Lindt","Lindt","Ghirardelli",1,3.6,0.5,"Milk","Milk w/ Nuts","Dark w/ Nuts",1,5774
+2401,5,"Hershey's","Godiva","Hershey's",0.8,1.5,3.3,"Milk w/ Nuts","Dark","White",2,5238
+2401,6,"Lindt","Dove","Godiva",3.1,2.5,2.6,"Milk","White","Dark",3,3423
+2401,7,"Godiva","Dove","Godiva",3.1,4,2.1,"White","Dark w/ Nuts","Milk",3,4691
+2401,8,"Hershey's","Godiva","Godiva",0.8,3.2,1.1,"Dark w/ Nuts","White","Dark",3,3268
+2401,9,"Lindt","Godiva","Godiva",2.3,1.7,3.8,"Dark","Dark","White",2,6719
+2401,10,"Lindt","Godiva","Hershey's",0.6,0.8,3.7,"Milk w/ Nuts","Milk w/ Nuts","Dark",2,3542
+2401,11,"Godiva","Dove","Hershey's",1.6,0.7,1.2,"Milk","White","Dark w/ Nuts",1,3607
+2401,12,"Godiva","Dove","Lindt",1.1,0.8,3.7,"Dark w/ Nuts","Dark w/ Nuts","Dark",3,6688
+2401,13,"Dove","Lindt","Godiva",3,0.8,1.9,"Milk","White","White",1,4547
+2401,14,"Lindt","Dove","Dove",0.6,3.5,1.9,"Dark w/ Nuts","Milk","Milk w/ Nuts",2,5615
+2401,15,"Godiva","Ghirardelli","Dove",3.7,1.5,1.6,"Dark","Dark","Dark",1,3723
+2401,16,"Hershey's","Dove","Dove",0.5,3.8,3.7,"Milk w/ Nuts","Milk","Dark w/ Nuts",2,4616
+2401,17,"Dove","Dove","Lindt",3.9,1.2,0.5,"Milk","Milk w/ Nuts","Milk w/ Nuts",1,3588
+2401,18,"Godiva","Lindt","Godiva",2.8,2.7,2.6,"Milk w/ Nuts","Milk","White",1,4796
+2401,19,"Hershey's","Dove","Dove",3.7,4,2.8,"Milk","Dark w/ Nuts","Dark",1,4394
+2401,20,"Dove","Godiva","Hershey's",0.7,0.8,1.9,"Dark","White","Dark",3,6490
+2401,21,"Ghirardelli","Hershey's","Godiva",0.8,3,2.4,"Milk w/ Nuts","Milk","Milk w/ Nuts",2,5664
+2401,22,"Godiva","Dove","Hershey's",0.9,3.4,3.4,"Dark","Milk w/ Nuts","Dark w/ Nuts",1,4037
+2401,23,"Godiva","Dove","Dove",0.6,1.8,3.4,"Dark w/ Nuts","White","Dark",1,4764
+2401,24,"Hershey's","Godiva","Ghirardelli",3.6,3.2,1.4,"Dark w/ Nuts","Milk w/ Nuts","Milk w/ Nuts",2,5663
+2401,25,"Lindt","Ghirardelli","Lindt",1.1,0.8,2,"White","White","Milk",3,8058
+2402,1,"Hershey's","Godiva","Dove",2.2,2.1,3.5,"Milk","Dark w/ Nuts","Milk",2,13161
+2402,2,"Ghirardelli","Hershey's","Hershey's",1.3,1.7,3.5,"Milk w/ Nuts","White","Milk",3,6346
+2402,3,"Ghirardelli","Dove","Lindt",1.6,2,1.8,"Milk w/ Nuts","Milk w/ Nuts","Dark w/ Nuts",3,5606
+2402,4,"Lindt","Dove","Lindt",3.2,2.5,0.8,"Milk w/ Nuts","Dark w/ Nuts","Milk",2,7192
+2402,5,"Godiva","Godiva","Hershey's",1.3,1.1,2.7,"Dark w/ Nuts","Milk","Milk w/ Nuts",1,11993
+2402,6,"Lindt","Hershey's","Lindt",0.7,0.6,3.3,"Dark","White","Milk w/ Nuts",1,4267
+2402,7,"Lindt","Lindt","Ghirardelli",0.9,2.9,0.8,"Dark","White","Milk",1,4163
+2402,8,"Lindt","Ghirardelli","Lindt",2,1.3,1.2,"Milk w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",2,2617
+2402,9,"Lindt","Dove","Dove",3.4,1.8,3.1,"Dark w/ Nuts","Dark","Dark w/ Nuts",1,6410
+2402,10,"Lindt","Hershey's","Hershey's",1.1,1.6,3.8,"Dark","White","Milk w/ Nuts",1,1681
+2402,11,"Hershey's","Dove","Godiva",2.1,2.9,1.4,"Dark w/ Nuts","Dark","White",2,2486
+2402,12,"Hershey's","Hershey's","Dove",1,0.6,2.8,"White","Milk w/ Nuts","Milk w/ Nuts",3,2604
+2402,13,"Ghirardelli","Dove","Hershey's",0.9,2.5,1.9,"White","Dark","White",2,1742
+2402,14,"Hershey's","Godiva","Godiva",1.8,3.4,3.2,"Milk","Dark","Dark w/ Nuts",2,1633
+2402,15,"Godiva","Hershey's","Hershey's",0.7,0.6,2.9,"Milk","White","Dark w/ Nuts",1,3364
+2402,16,"Hershey's","Ghirardelli","Hershey's",2.3,0.6,0.8,"Milk w/ Nuts","Milk w/ Nuts","White",2,4598
+2402,17,"Dove","Ghirardelli","Dove",4,2.7,1.3,"Dark","Milk","White",1,1357
+2402,18,"Dove","Ghirardelli","Ghirardelli",2.1,1.1,2.5,"Milk w/ Nuts","White","Milk",3,2111
+2402,19,"Hershey's","Dove","Ghirardelli",1.2,2.9,1.5,"Dark w/ Nuts","Milk","White",2,1991
+2402,20,"Godiva","Hershey's","Lindt",1.8,3.2,0.9,"Milk w/ Nuts","Dark","Dark",3,2938
+2402,21,"Ghirardelli","Godiva","Lindt",1.5,2.1,0.6,"White","Milk w/ Nuts","Dark",3,1703
+2402,22,"Godiva","Godiva","Ghirardelli",2.8,3.7,2.2,"Dark w/ Nuts","Milk w/ Nuts","White",1,2130
+2402,23,"Godiva","Hershey's","Ghirardelli",3.2,4,2.4,"Milk w/ Nuts","Dark w/ Nuts","White",1,6096
+2402,24,"Godiva","Godiva","Ghirardelli",0.9,3.8,1.8,"White","Dark w/ Nuts","Milk w/ Nuts",2,6170
+2402,25,"Godiva","Lindt","Dove",2.3,1.3,2.5,"Milk w/ Nuts","Milk w/ Nuts","Milk",1,3605
+2403,1,"Dove","Dove","Lindt",1.4,1,2,"White","Milk","Milk w/ Nuts",2,3629
+2403,2,"Godiva","Ghirardelli","Godiva",3.5,2.2,2.2,"Milk","Milk","Dark",2,3374
+2403,3,"Ghirardelli","Hershey's","Godiva",3.9,1.2,2.2,"Dark w/ Nuts","Milk","Dark w/ Nuts",2,3055
+2403,4,"Godiva","Lindt","Hershey's",1.3,0.7,3.3,"Milk","Dark w/ Nuts","Dark",1,6435
+2403,5,"Godiva","Dove","Ghirardelli",2.8,1,3.5,"Dark","Dark w/ Nuts","Milk",2,4997
+2403,6,"Lindt","Godiva","Dove",1.3,2.5,0.8,"Milk w/ Nuts","White","White",3,3763
+2403,7,"Dove","Lindt","Godiva",1.4,2.1,3.1,"Dark","Dark","Dark",1,4852
+2403,8,"Dove","Lindt","Godiva",2.9,3,2.2,"White","Dark","Milk w/ Nuts",3,3427
+2403,9,"Godiva","Lindt","Dove",1.2,2.5,1.4,"Dark w/ Nuts","Dark w/ Nuts","Milk w/ Nuts",1,4681
+2403,10,"Dove","Godiva","Lindt",2.5,0.9,3.2,"Dark w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",2,3818
+2403,11,"Godiva","Godiva","Dove",3.7,1.4,1.7,"Milk w/ Nuts","Dark","Milk",3,4842
+2403,12,"Ghirardelli","Ghirardelli","Dove",3.7,3.3,2.3,"White","Milk","Dark",2,8696
+2403,13,"Dove","Lindt","Ghirardelli",1,3.8,3.5,"Dark","Dark","Dark w/ Nuts",1,2572
+2403,14,"Lindt","Hershey's","Hershey's",2.8,2.8,2.6,"Milk w/ Nuts","Dark w/ Nuts","Milk",3,4534
+2403,15,"Ghirardelli","Dove","Ghirardelli",3,2.7,3,"Milk w/ Nuts","Dark","Dark",2,3950
+2403,16,"Dove","Dove","Godiva",3,2.5,3.9,"Milk","White","Milk",2,2118
+2403,17,"Lindt","Ghirardelli","Godiva",0.5,0.6,3.4,"Dark","White","Dark",1,2251
+2403,18,"Dove","Dove","Hershey's",2.2,3.6,3.8,"Milk w/ Nuts","Dark","White",1,3593
+2403,19,"Dove","Hershey's","Ghirardelli",2.2,4,2.9,"Dark w/ Nuts","Milk w/ Nuts","Dark",1,2729
+2403,20,"Godiva","Lindt","Hershey's",3.2,0.6,2,"Milk","Dark","Dark w/ Nuts",2,2737
+2403,21,"Ghirardelli","Lindt","Godiva",3.4,2.5,2.5,"White","Dark","White",3,4198
+2403,22,"Godiva","Lindt","Dove",3,1.1,3.8,"Dark w/ Nuts","Dark","Milk",2,3436
+2403,23,"Hershey's","Hershey's","Dove",0.7,2.2,2.7,"Milk","White","Milk w/ Nuts",1,3890
+2403,24,"Dove","Ghirardelli","Godiva",1.4,3.3,2.2,"Dark w/ Nuts","Milk","Milk",1,3168
+2403,25,"Hershey's","Godiva","Ghirardelli",2.3,1.7,2.7,"Milk w/ Nuts","Milk w/ Nuts","Milk w/ Nuts",2,2122
+2405,1,"Lindt","Ghirardelli","Godiva",3.9,2.6,2.7,"Dark w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",2,4028
+2405,2,"Lindt","Hershey's","Hershey's",0.9,3.3,4,"Milk w/ Nuts","Dark w/ Nuts","Milk w/ Nuts",3,3620
+2405,3,"Hershey's","Dove","Ghirardelli",3.6,1.6,1.7,"Milk","Milk","Milk w/ Nuts",3,1740
+2405,4,"Godiva","Ghirardelli","Godiva",1.4,2.4,3.8,"Milk w/ Nuts","White","White",1,2685
+2405,5,"Dove","Godiva","Dove",3,2.9,1.6,"Milk w/ Nuts","Dark w/ Nuts","Dark",1,4206
+2405,6,"Lindt","Ghirardelli","Lindt",2.5,2.6,3.9,"White","White","Dark w/ Nuts",3,3110
+2405,7,"Ghirardelli","Godiva","Dove",0.7,2.9,0.7,"Dark w/ Nuts","White","Milk",1,2356
+2405,8,"Hershey's","Ghirardelli","Godiva",0.6,3.3,1.1,"Milk w/ Nuts","Dark w/ Nuts","White",1,4992
+2405,9,"Hershey's","Ghirardelli","Godiva",2.7,2.3,2.6,"Milk w/ Nuts","Dark w/ Nuts","Dark",1,3786
+2405,10,"Lindt","Godiva","Ghirardelli",2.5,1.5,1.4,"Dark","Dark","Dark w/ Nuts",3,3589
+2405,11,"Ghirardelli","Dove","Ghirardelli",1.5,2,2.5,"White","Dark w/ Nuts","Dark",3,3333
+2405,12,"Ghirardelli","Lindt","Dove",1.7,2.5,0.6,"Milk","Dark","Milk",1,2572
+2405,13,"Dove","Hershey's","Ghirardelli",3.3,2.8,1.8,"Milk","Dark","Milk",3,2836
+2405,14,"Lindt","Ghirardelli","Hershey's",3.5,1.3,0.9,"Dark","White","Milk w/ Nuts",3,3343
+2405,15,"Hershey's","Godiva","Hershey's",2.6,3.9,2.9,"Dark","Dark","White",2,2753
+2405,16,"Ghirardelli","Ghirardelli","Godiva",1.1,1.9,2.1,"Milk w/ Nuts","Dark","Milk w/ Nuts",1,2957
+2405,17,"Ghirardelli","Godiva","Hershey's",2.9,2.4,3.9,"White","Milk","Milk w/ Nuts",2,3035
+2405,18,"Godiva","Ghirardelli","Hershey's",3.4,3.9,1.9,"White","Dark","White",2,2175
+2405,19,"Hershey's","Dove","Hershey's",2.9,3.4,1.3,"Milk w/ Nuts","Dark","Milk",1,3772
+2405,20,"Lindt","Dove","Lindt",3.5,3.4,0.7,"Dark w/ Nuts","Milk","Dark",2,2802
+2405,21,"Hershey's","Hershey's","Ghirardelli",3,1.8,3.5,"Milk","Dark","Milk",3,2472
+2405,22,"Godiva","Dove","Lindt",1.6,1.8,3.6,"Dark w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",1,2770
+2405,23,"Godiva","Hershey's","Godiva",1.5,1.3,0.6,"White","White","Milk w/ Nuts",3,2299
+2405,24,"Ghirardelli","Ghirardelli","Lindt",2.5,0.8,2.1,"Dark","Dark w/ Nuts","White",1,2666
+2405,25,"Lindt","Hershey's","Ghirardelli",3.6,2.5,2,"White","White","Dark w/ Nuts",3,2111
+2407,1,"Ghirardelli","Lindt","Hershey's",3,2.5,2.4,"Dark","White","Dark w/ Nuts",3,4375
+2407,2,"Ghirardelli","Lindt","Godiva",2,2.9,1.9,"Milk","White","White",1,3740
+2407,3,"Lindt","Hershey's","Godiva",2.3,0.6,0.9,"Milk","Dark","White",2,2976
+2407,4,"Hershey's","Dove","Lindt",1.3,1.3,3,"White","Dark","Dark w/ Nuts",3,4880
+2407,5,"Dove","Hershey's","Lindt",3.7,3.6,3.6,"Milk","Milk w/ Nuts","White",2,9547
+2407,6,"Lindt","Dove","Lindt",4,2.5,0.8,"White","White","Milk w/ Nuts",3,3953
+2407,7,"Godiva","Dove","Dove",2.5,2.4,2.3,"Milk","Dark w/ Nuts","White",2,2387
+2407,8,"Hershey's","Hershey's","Godiva",2.4,1.8,3.7,"Dark w/ Nuts","White","Milk",1,2861
+2407,9,"Dove","Dove","Ghirardelli",3.9,1.9,1.8,"Milk","Dark","Milk w/ Nuts",3,5692
+2407,10,"Lindt","Dove","Hershey's",3.7,1.1,1,"Milk","Milk","Milk",3,5702
+2407,11,"Godiva","Hershey's","Ghirardelli",3.3,3.3,0.6,"Dark","Dark","Dark w/ Nuts",3,2200
+2407,12,"Godiva","Ghirardelli","Lindt",1.6,1.1,1.3,"Milk","Dark w/ Nuts","Milk",2,3660
+2407,13,"Lindt","Ghirardelli","Lindt",2,3.5,3.7,"Dark","White","Milk w/ Nuts",1,2874
+2407,14,"Lindt","Godiva","Hershey's",1.9,3,0.6,"Milk w/ Nuts","Dark","Dark",3,1783
+2407,15,"Dove","Ghirardelli","Godiva",3,1.2,1.1,"Milk w/ Nuts","Dark w/ Nuts","White",3,6043
+2407,16,"Lindt","Ghirardelli","Dove",3.3,1.6,1.4,"Milk w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",2,3340
+2407,17,"Lindt","Lindt","Godiva",3.3,2.8,0.9,"Dark w/ Nuts","Milk","Milk",3,4053
+2407,18,"Lindt","Hershey's","Hershey's",0.8,3.5,2,"Dark","Milk","Dark w/ Nuts",1,3085
+2407,19,"Godiva","Dove","Ghirardelli",3.3,3.1,2.9,"Dark","Milk w/ Nuts","Dark w/ Nuts",3,3485
+2407,20,"Lindt","Lindt","Dove",1.2,1.5,0.9,"Dark w/ Nuts","White","Dark",3,1354
+2407,21,"Hershey's","Lindt","Hershey's",2.2,3.3,1.9,"White","Dark w/ Nuts","Milk",1,10592
+2407,22,"Dove","Ghirardelli","Hershey's",3.4,3.3,3.8,"Milk","Dark","Dark",2,7078
+2407,23,"Ghirardelli","Hershey's","Hershey's",1.5,2.8,2.5,"Milk w/ Nuts","Dark","Milk w/ Nuts",1,4497
+2407,24,"Godiva","Ghirardelli","Ghirardelli",0.5,1.1,1.4,"White","Dark w/ Nuts","Dark",1,2922
+2407,25,"Godiva","Lindt","Ghirardelli",0.9,2.2,1,"Milk","Dark","Dark w/ Nuts",3,4129
+2408,1,"Ghirardelli","Dove","Dove",3.8,2,2.2,"White","White","Dark w/ Nuts",1,8941
+2408,2,"Ghirardelli","Godiva","Dove",0.8,2.7,0.9,"Milk w/ Nuts","Milk w/ Nuts","Milk",3,5569
+2408,3,"Dove","Hershey's","Lindt",2.6,1.5,3.4,"Milk w/ Nuts","Milk","White",2,6391
+2408,4,"Ghirardelli","Lindt","Godiva",2.9,0.5,1.5,"Dark","Milk w/ Nuts","Milk w/ Nuts",1,8128
+2408,5,"Dove","Ghirardelli","Godiva",3.9,1.5,1.1,"Milk","Dark w/ Nuts","Milk",3,10948
+2408,6,"Godiva","Ghirardelli","Hershey's",1.5,1.4,2.5,"Milk w/ Nuts","Milk","White",2,6215
+2408,7,"Godiva","Hershey's","Ghirardelli",2.6,3.4,1.4,"Milk w/ Nuts","White","Dark w/ Nuts",1,7141
+2408,8,"Godiva","Ghirardelli","Godiva",0.8,1.1,0.5,"White","Milk w/ Nuts","Dark",3,3075
+2408,9,"Hershey's","Godiva","Dove",0.6,2.2,1.1,"Dark w/ Nuts","Milk","Dark w/ Nuts",2,2992
+2408,10,"Ghirardelli","Godiva","Dove",3.2,2.4,2.9,"Dark w/ Nuts","Milk","White",2,3248
+2408,11,"Godiva","Hershey's","Dove",4,3.5,2.5,"Dark","Milk w/ Nuts","Dark",3,6022
+2408,12,"Lindt","Godiva","Lindt",2,3,1,"Milk w/ Nuts","Milk","Dark w/ Nuts",2,2571
+2408,13,"Lindt","Lindt","Godiva",3.2,1.1,1,"Milk w/ Nuts","Dark w/ Nuts","Milk w/ Nuts",1,8454
+2408,14,"Godiva","Godiva","Dove",1.3,2,1.3,"Milk","Milk w/ Nuts","Dark w/ Nuts",1,1888
+2408,15,"Hershey's","Ghirardelli","Lindt",3.1,3.7,3.6,"White","Milk w/ Nuts","Milk",3,1532
+2408,16,"Lindt","Hershey's","Lindt",1,4,0.5,"Dark w/ Nuts","White","Dark",3,2296
+2408,17,"Godiva","Dove","Ghirardelli",2.5,3.5,2.3,"White","Dark","Milk",3,1574
+2408,18,"Godiva","Lindt","Ghirardelli",1,3.3,2.4,"White","Dark w/ Nuts","Dark w/ Nuts",1,6590
+2408,19,"Ghirardelli","Hershey's","Godiva",0.8,1.6,1.1,"Milk w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",1,4306
+2408,20,"Dove","Lindt","Hershey's",3.2,2.2,3,"Milk w/ Nuts","Dark w/ Nuts","Dark",3,3884
+2408,21,"Dove","Godiva","Dove",1.3,1.7,2.4,"Dark w/ Nuts","Dark","White",2,2502
+2408,22,"Dove","Ghirardelli","Ghirardelli",3.5,2.3,3.5,"Milk","Milk","Dark w/ Nuts",1,7149
+2408,23,"Godiva","Dove","Ghirardelli",0.9,3,0.6,"White","Dark","Dark",3,6576
+2408,24,"Lindt","Godiva","Dove",1.2,1.1,1.4,"Dark","Milk","Dark w/ Nuts",2,3214
+2408,25,"Lindt","Godiva","Ghirardelli",3.8,0.9,0.7,"Milk w/ Nuts","Milk w/ Nuts","White",3,7403
+2409,1,"Dove","Godiva","Dove",0.6,0.7,3.6,"Milk","Dark","White",2,4909
+2409,2,"Godiva","Godiva","Hershey's",2.7,3.9,0.7,"Milk w/ Nuts","Dark","Milk w/ Nuts",2,3844
+2409,3,"Hershey's","Godiva","Hershey's",1.7,3.7,3,"Dark w/ Nuts","Dark","Dark",2,2767
+2409,4,"Lindt","Lindt","Ghirardelli",1,3.6,0.5,"Milk","Milk w/ Nuts","Dark w/ Nuts",1,5956
+2409,5,"Hershey's","Godiva","Hershey's",0.8,1.5,3.3,"Milk w/ Nuts","Dark","White",2,1456
+2409,6,"Lindt","Dove","Godiva",3.1,2.5,2.6,"Milk","White","Dark",3,4408
+2409,7,"Godiva","Dove","Godiva",3.1,4,2.1,"White","Dark w/ Nuts","Milk",1,2852
+2409,8,"Hershey's","Godiva","Godiva",0.8,3.2,1.1,"Dark w/ Nuts","White","Dark",3,3016
+2409,9,"Lindt","Godiva","Godiva",2.3,1.7,3.8,"Dark","Dark","White",2,1021
+2409,10,"Lindt","Godiva","Hershey's",0.6,0.8,3.7,"Milk w/ Nuts","Milk w/ Nuts","Dark",3,2733
+2409,11,"Godiva","Dove","Hershey's",1.6,0.7,1.2,"Milk","White","Dark w/ Nuts",1,2352
+2409,12,"Godiva","Dove","Lindt",1.1,0.8,3.7,"Dark w/ Nuts","Dark w/ Nuts","Dark",3,2106
+2409,13,"Dove","Lindt","Godiva",3,0.8,1.9,"Milk","White","White",3,3453
+2409,14,"Lindt","Dove","Dove",0.6,3.5,1.9,"Dark w/ Nuts","Milk","Milk w/ Nuts",2,2679
+2409,15,"Godiva","Ghirardelli","Dove",3.7,1.5,1.6,"Dark","Dark","Dark",2,2182
+2409,16,"Hershey's","Dove","Dove",0.5,3.8,3.7,"Milk w/ Nuts","Milk","Dark w/ Nuts",2,2301
+2409,17,"Dove","Dove","Lindt",3.9,1.2,0.5,"Milk","Milk w/ Nuts","Milk w/ Nuts",1,1105
+2409,18,"Godiva","Lindt","Godiva",2.8,2.7,2.6,"Milk w/ Nuts","Milk","White",3,3470
+2409,19,"Hershey's","Dove","Dove",3.7,4,2.8,"Milk","Dark w/ Nuts","Dark",3,2278
+2409,20,"Dove","Godiva","Hershey's",0.7,0.8,1.9,"Dark","White","Dark",1,4432
+2409,21,"Ghirardelli","Hershey's","Godiva",0.8,3,2.4,"Milk w/ Nuts","Milk","Milk w/ Nuts",2,2886
+2409,22,"Godiva","Dove","Hershey's",0.9,3.4,3.4,"Dark","Milk w/ Nuts","Dark w/ Nuts",1,1770
+2409,23,"Godiva","Dove","Dove",0.6,1.8,3.4,"Dark w/ Nuts","White","Dark",3,5288
+2409,24,"Hershey's","Godiva","Ghirardelli",3.6,3.2,1.4,"Dark w/ Nuts","Milk w/ Nuts","Milk w/ Nuts",3,3724
+2409,25,"Lindt","Ghirardelli","Lindt",1.1,0.8,2,"White","White","Milk",2,1427
+2410,1,"Dove","Dove","Lindt",1.4,1,2,"White","Milk","Milk w/ Nuts",2,6274
+2410,2,"Godiva","Ghirardelli","Godiva",3.5,2.2,2.2,"Milk","Milk","Dark",1,7000
+2410,3,"Ghirardelli","Hershey's","Godiva",3.9,1.2,2.2,"Dark w/ Nuts","Milk","Dark w/ Nuts",2,3769
+2410,4,"Godiva","Lindt","Hershey's",1.3,0.7,3.3,"Milk","Dark w/ Nuts","Dark",1,3041
+2410,5,"Godiva","Dove","Ghirardelli",2.8,1,3.5,"Dark","Dark w/ Nuts","Milk",3,9033
+2410,6,"Lindt","Godiva","Dove",1.3,2.5,0.8,"Milk w/ Nuts","White","White",2,11118
+2410,7,"Dove","Lindt","Godiva",1.4,2.1,3.1,"Dark","Dark","Dark",1,24462
+2410,8,"Dove","Lindt","Godiva",2.9,3,2.2,"White","Dark","Milk w/ Nuts",1,12594
+2410,9,"Godiva","Lindt","Dove",1.2,2.5,1.4,"Dark w/ Nuts","Dark w/ Nuts","Milk w/ Nuts",3,9228
+2410,10,"Dove","Godiva","Lindt",2.5,0.9,3.2,"Dark w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",2,10651
+2410,11,"Godiva","Godiva","Dove",3.7,1.4,1.7,"Milk w/ Nuts","Dark","Milk",3,4123
+2410,12,"Ghirardelli","Ghirardelli","Dove",3.7,3.3,2.3,"White","Milk","Dark",2,7243
+2410,13,"Dove","Lindt","Ghirardelli",1,3.8,3.5,"Dark","Dark","Dark w/ Nuts",1,6839
+2410,14,"Lindt","Hershey's","Hershey's",2.8,2.8,2.6,"Milk w/ Nuts","Dark w/ Nuts","Milk",3,6237
+2410,15,"Ghirardelli","Dove","Ghirardelli",3,2.7,3,"Milk w/ Nuts","Dark","Dark",1,16037
+2410,16,"Dove","Dove","Godiva",3,2.5,3.9,"Milk","White","Milk",1,8577
+2410,17,"Lindt","Ghirardelli","Godiva",0.5,0.6,3.4,"Dark","White","Dark",2,7927
+2410,18,"Dove","Dove","Hershey's",2.2,3.6,3.8,"Milk w/ Nuts","Dark","White",1,16668
+2410,19,"Dove","Hershey's","Ghirardelli",2.2,4,2.9,"Dark w/ Nuts","Milk w/ Nuts","Dark",2,12192
+2410,20,"Godiva","Lindt","Hershey's",3.2,0.6,2,"Milk","Dark","Dark w/ Nuts",1,5928
+2410,21,"Ghirardelli","Lindt","Godiva",3.4,2.5,2.5,"White","Dark","White",3,17833
+2410,22,"Godiva","Lindt","Dove",3,1.1,3.8,"Dark w/ Nuts","Dark","Milk",2,14396
+2410,23,"Hershey's","Hershey's","Dove",0.7,2.2,2.7,"Milk","White","Milk w/ Nuts",1,6555
+2410,24,"Dove","Ghirardelli","Godiva",1.4,3.3,2.2,"Dark w/ Nuts","Milk","Milk",3,3873
+2410,25,"Hershey's","Godiva","Ghirardelli",2.3,1.7,2.7,"Milk w/ Nuts","Milk w/ Nuts","Milk w/ Nuts",2,5676
+2411,1,"Hershey's","Godiva","Dove",2.2,2.1,3.5,"Milk","Dark w/ Nuts","Milk",2,10829
+2411,2,"Ghirardelli","Hershey's","Hershey's",1.3,1.7,3.5,"Milk w/ Nuts","White","Milk",1,5306
+2411,3,"Ghirardelli","Dove","Lindt",1.6,2,1.8,"Milk w/ Nuts","Milk w/ Nuts","Dark w/ Nuts",1,4350
+2411,4,"Lindt","Dove","Lindt",3.2,2.5,0.8,"Milk w/ Nuts","Dark w/ Nuts","Milk",3,9835
+2411,5,"Godiva","Godiva","Hershey's",1.3,1.1,2.7,"Dark w/ Nuts","Milk","Milk w/ Nuts",1,9353
+2411,6,"Lindt","Hershey's","Lindt",0.7,0.6,3.3,"Dark","White","Milk w/ Nuts",3,12703
+2411,7,"Lindt","Lindt","Ghirardelli",0.9,2.9,0.8,"Dark","White","Milk",3,3969
+2411,8,"Lindt","Ghirardelli","Lindt",2,1.3,1.2,"Milk w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",2,5733
+2411,9,"Lindt","Dove","Dove",3.4,1.8,3.1,"Dark w/ Nuts","Dark","Dark w/ Nuts",1,13105
+2411,10,"Lindt","Hershey's","Hershey's",1.1,1.6,3.8,"Dark","White","Milk w/ Nuts",3,5570
+2411,11,"Hershey's","Dove","Godiva",2.1,2.9,1.4,"Dark w/ Nuts","Dark","White",1,5773
+2411,12,"Hershey's","Hershey's","Dove",1,0.6,2.8,"White","Milk w/ Nuts","Milk w/ Nuts",2,5236
+2411,13,"Ghirardelli","Dove","Hershey's",0.9,2.5,1.9,"White","Dark","White",2,8902
+2411,14,"Hershey's","Godiva","Godiva",1.8,3.4,3.2,"Milk","Dark","Dark w/ Nuts",1,4533
+2411,15,"Godiva","Hershey's","Hershey's",0.7,0.6,2.9,"Milk","White","Dark w/ Nuts",1,16535
+2411,16,"Hershey's","Ghirardelli","Hershey's",2.3,0.6,0.8,"Milk w/ Nuts","Milk w/ Nuts","White",2,2016
+2411,17,"Dove","Ghirardelli","Dove",4,2.7,1.3,"Dark","Milk","White",2,2769
+2411,18,"Dove","Ghirardelli","Ghirardelli",2.1,1.1,2.5,"Milk w/ Nuts","White","Milk",3,3478
+2411,19,"Hershey's","Dove","Ghirardelli",1.2,2.9,1.5,"Dark w/ Nuts","Milk","White",1,8690
+2411,20,"Godiva","Hershey's","Lindt",1.8,3.2,0.9,"Milk w/ Nuts","Dark","Dark",1,6087
+2411,21,"Ghirardelli","Godiva","Lindt",1.5,2.1,0.6,"White","Milk w/ Nuts","Dark",2,3531
+2411,22,"Godiva","Godiva","Ghirardelli",2.8,3.7,2.2,"Dark w/ Nuts","Milk w/ Nuts","White",1,5907
+2411,23,"Godiva","Hershey's","Ghirardelli",3.2,4,2.4,"Milk w/ Nuts","Dark w/ Nuts","White",1,9337
+2411,24,"Godiva","Godiva","Ghirardelli",0.9,3.8,1.8,"White","Dark w/ Nuts","Milk w/ Nuts",3,3917
+2411,25,"Godiva","Lindt","Dove",2.3,1.3,2.5,"Milk w/ Nuts","Milk w/ Nuts","Milk",2,11672
+2412,1,"Hershey's","Hershey's","Lindt",1.8,2.6,0.5,"White","Milk w/ Nuts","Milk w/ Nuts",3,5051
+2412,2,"Hershey's","Godiva","Lindt",1.9,3.4,2.6,"Milk w/ Nuts","Milk w/ Nuts","Dark",3,3802
+2412,3,"Ghirardelli","Lindt","Godiva",2.7,1,1.7,"White","Milk","Dark w/ Nuts",3,2620
+2412,4,"Hershey's","Hershey's","Dove",0.9,0.9,0.8,"Milk","Dark","White",2,3063
+2412,5,"Lindt","Ghirardelli","Godiva",3.3,3.5,1.3,"Dark","Dark w/ Nuts","Dark w/ Nuts",2,1436
+2412,6,"Dove","Hershey's","Dove",3.5,3.2,3.9,"Dark w/ Nuts","Dark","White",1,2013
+2412,7,"Ghirardelli","Godiva","Lindt",0.6,0.5,3.8,"Milk","Milk","White",1,4786
+2412,8,"Lindt","Hershey's","Dove",1.4,1.2,3.1,"Dark","Milk","Milk",1,2774
+2412,9,"Ghirardelli","Dove","Dove",1.3,1.5,2.7,"Milk","Milk","Dark",3,2773
+2412,10,"Ghirardelli","Ghirardelli","Hershey's",3.8,3.4,1.7,"White","Dark w/ Nuts","Dark",2,1904
+2412,11,"Hershey's","Lindt","Lindt",0.6,2.7,0.9,"Dark","Dark w/ Nuts","Milk w/ Nuts",2,2039
+2412,12,"Ghirardelli","Godiva","Hershey's",3,1.1,0.7,"Dark w/ Nuts","White","Dark",1,1580
+2412,13,"Lindt","Hershey's","Ghirardelli",1.5,0.5,3.1,"Dark","Dark","Milk w/ Nuts",2,3773
+2412,14,"Hershey's","Dove","Lindt",1,0.8,1,"Dark w/ Nuts","Milk w/ Nuts","Milk w/ Nuts",3,4056
+2412,15,"Lindt","Ghirardelli","Hershey's",2.2,0.6,3.7,"White","White","White",2,3136
+2412,16,"Hershey's","Hershey's","Godiva",1.4,2.4,3.4,"Dark","Milk w/ Nuts","White",1,3524
+2412,17,"Ghirardelli","Ghirardelli","Godiva",2.3,1.6,2.6,"Dark w/ Nuts","Milk","Dark w/ Nuts",1,1790
+2412,18,"Dove","Hershey's","Dove",1.3,1.5,3,"Dark w/ Nuts","White","Dark",1,3363
+2412,19,"Hershey's","Hershey's","Dove",1,2.5,0.5,"Milk","Dark","Dark",3,2195
+2412,20,"Ghirardelli","Ghirardelli","Hershey's",1,1,3.5,"Milk","Milk w/ Nuts","Milk w/ Nuts",2,2558
+2412,21,"Dove","Hershey's","Lindt",2.4,2.4,1.2,"White","White","Dark w/ Nuts",3,3204
+2412,22,"Dove","Lindt","Godiva",0.7,3.2,2.9,"Dark w/ Nuts","Milk w/ Nuts","Milk w/ Nuts",1,3937
+2412,23,"Ghirardelli","Dove","Godiva",3.5,2.8,2.3,"Dark","Dark","White",1,2151
+2412,24,"Ghirardelli","Lindt","Lindt",1.4,1.7,3.9,"White","Milk w/ Nuts","Milk",2,2764
+2412,25,"Dove","Ghirardelli","Hershey's",3.6,3,3.1,"Dark","Dark","Milk w/ Nuts",2,2909
+2413,1,"Lindt","Ghirardelli","Godiva",3.9,2.6,2.7,"Dark w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",1,6146
+2413,2,"Lindt","Hershey's","Hershey's",0.9,3.3,4,"Milk w/ Nuts","Dark w/ Nuts","Milk w/ Nuts",1,5207
+2413,3,"Hershey's","Dove","Ghirardelli",3.6,1.6,1.7,"Milk","Milk","Milk w/ Nuts",3,4416
+2413,4,"Godiva","Ghirardelli","Godiva",1.4,2.4,3.8,"Milk w/ Nuts","White","White",1,3556
+2413,5,"Dove","Godiva","Dove",3,2.9,1.6,"Milk w/ Nuts","Dark w/ Nuts","Dark",1,4296
+2413,6,"Lindt","Ghirardelli","Lindt",2.5,2.6,3.9,"White","White","Dark w/ Nuts",1,7076
+2413,7,"Ghirardelli","Godiva","Dove",0.7,2.9,0.7,"Dark w/ Nuts","White","Milk",1,8634
+2413,8,"Hershey's","Ghirardelli","Godiva",0.6,3.3,1.1,"Milk w/ Nuts","Dark w/ Nuts","White",1,5819
+2413,9,"Hershey's","Ghirardelli","Godiva",2.7,2.3,2.6,"Milk w/ Nuts","Dark w/ Nuts","Dark",2,10822
+2413,10,"Lindt","Godiva","Ghirardelli",2.5,1.5,1.4,"Dark","Dark","Dark w/ Nuts",3,6482
+2413,11,"Ghirardelli","Dove","Ghirardelli",1.5,2,2.5,"White","Dark w/ Nuts","Dark",2,6695
+2413,12,"Ghirardelli","Lindt","Dove",1.7,2.5,0.6,"Milk","Dark","Milk",3,8631
+2413,13,"Dove","Hershey's","Ghirardelli",3.3,2.8,1.8,"Milk","Dark","Milk",3,6354
+2413,14,"Lindt","Ghirardelli","Hershey's",3.5,1.3,0.9,"Dark","White","Milk w/ Nuts",2,7075
+2413,15,"Hershey's","Godiva","Hershey's",2.6,3.9,2.9,"Dark","Dark","White",3,5151
+2413,16,"Ghirardelli","Ghirardelli","Godiva",1.1,1.9,2.1,"Milk w/ Nuts","Dark","Milk w/ Nuts",3,4407
+2413,17,"Ghirardelli","Godiva","Hershey's",2.9,2.4,3.9,"White","Milk","Milk w/ Nuts",2,4438
+2413,18,"Godiva","Ghirardelli","Hershey's",3.4,3.9,1.9,"White","Dark","White",3,4313
+2413,19,"Hershey's","Dove","Hershey's",2.9,3.4,1.3,"Milk w/ Nuts","Dark","Milk",1,5485
+2413,20,"Lindt","Dove","Lindt",3.5,3.4,0.7,"Dark w/ Nuts","Milk","Dark",2,7413
+2413,21,"Hershey's","Hershey's","Ghirardelli",3,1.8,3.5,"Milk","Dark","Milk",3,5851
+2413,22,"Godiva","Dove","Lindt",1.6,1.8,3.6,"Dark w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",1,5710
+2413,23,"Godiva","Hershey's","Godiva",1.5,1.3,0.6,"White","White","Milk w/ Nuts",3,4555
+2413,24,"Ghirardelli","Ghirardelli","Lindt",2.5,0.8,2.1,"Dark","Dark w/ Nuts","White",2,5234
+2413,25,"Lindt","Hershey's","Ghirardelli",3.6,2.5,2,"White","White","Dark w/ Nuts",2,8259
+2414,1,"Lindt","Lindt","Hershey's",3.7,3.4,2.8,"Dark","White","Milk",1,4745
+2414,2,"Ghirardelli","Lindt","Godiva",4,1.3,3.8,"Milk","Dark w/ Nuts","Dark w/ Nuts",3,4320
+2414,3,"Hershey's","Dove","Hershey's",3,1.3,3.6,"Milk w/ Nuts","White","Dark w/ Nuts",2,3003
+2414,4,"Ghirardelli","Hershey's","Lindt",1.4,1.4,2.5,"Dark w/ Nuts","Dark w/ Nuts","White",1,5747
+2414,5,"Ghirardelli","Dove","Dove",0.7,1.6,1.6,"Dark w/ Nuts","White","Dark",3,5022
+2414,6,"Ghirardelli","Godiva","Ghirardelli",3.7,3.6,2.1,"Dark","White","Dark",1,6331
+2414,7,"Dove","Godiva","Dove",3.5,3.6,2.9,"White","Dark","White",2,7510
+2414,8,"Dove","Ghirardelli","Lindt",1.4,1.2,1.7,"Milk w/ Nuts","Milk","Milk",1,7772
+2414,9,"Godiva","Dove","Lindt",3.8,2,1.3,"Milk","Milk","White",3,3451
+2414,10,"Lindt","Lindt","Hershey's",2.2,2.8,0.8,"Dark","Milk w/ Nuts","Dark w/ Nuts",1,3569
+2414,11,"Hershey's","Lindt","Godiva",1.7,1.9,3.4,"White","Milk w/ Nuts","White",2,4925
+2414,12,"Dove","Hershey's","Lindt",1.7,3.1,3.1,"Dark","Dark","Milk w/ Nuts",1,4960
+2414,13,"Lindt","Dove","Lindt",1.9,0.6,0.5,"Dark w/ Nuts","White","Milk w/ Nuts",1,2388
+2414,14,"Ghirardelli","Ghirardelli","Ghirardelli",2.9,3.4,3.4,"White","Milk w/ Nuts","Dark w/ Nuts",3,5683
+2414,15,"Lindt","Hershey's","Lindt",3,0.9,2,"Dark w/ Nuts","Milk w/ Nuts","Milk",1,2253
+2414,16,"Lindt","Ghirardelli","Ghirardelli",3.6,3.1,3.6,"White","Dark w/ Nuts","Milk",2,2182
+2414,17,"Lindt","Lindt","Lindt",1.9,3.9,2.8,"Dark w/ Nuts","Milk w/ Nuts","White",1,1743
+2414,18,"Godiva","Ghirardelli","Lindt",1.3,3.5,0.7,"Dark","Milk","Dark",1,2737
+2414,19,"Godiva","Dove","Godiva",1.8,2.2,0.7,"Dark w/ Nuts","Dark","Milk w/ Nuts",1,2818
+2414,20,"Dove","Lindt","Hershey's",0.6,3.3,1.7,"Milk","Dark","Dark w/ Nuts",2,2260
+2414,21,"Lindt","Hershey's","Godiva",2.1,2.6,2.8,"White","Dark","Dark w/ Nuts",3,1776
+2414,22,"Lindt","Lindt","Ghirardelli",2.6,2,2.4,"Milk","Dark","Dark w/ Nuts",2,4615
+2414,23,"Ghirardelli","Godiva","Lindt",2.4,3.5,3.9,"Dark","Milk w/ Nuts","White",2,4715
+2414,24,"Ghirardelli","Godiva","Dove",0.6,3.3,2.6,"Milk w/ Nuts","Dark","White",2,3055
+2414,25,"Lindt","Hershey's","Lindt",3.3,2.1,3,"Dark","Dark","Dark w/ Nuts",3,2723
+2415,1,"Ghirardelli","Lindt","Hershey's",3,2.5,2.4,"Dark","White","Dark w/ Nuts",1,4188
+2415,2,"Ghirardelli","Lindt","Godiva",2,2.9,1.9,"Milk","White","White",1,2402
+2415,3,"Lindt","Hershey's","Godiva",2.3,0.6,0.9,"Milk","Dark","White",2,2098
+2415,4,"Hershey's","Dove","Lindt",1.3,1.3,3,"White","Dark","Dark w/ Nuts",2,2643
+2415,5,"Dove","Hershey's","Lindt",3.7,3.6,3.6,"Milk","Milk w/ Nuts","White",1,1886
+2415,6,"Lindt","Dove","Lindt",4,2.5,0.8,"White","White","Milk w/ Nuts",3,2432
+2415,7,"Godiva","Dove","Dove",2.5,2.4,2.3,"Milk","Dark w/ Nuts","White",2,2276
+2415,8,"Hershey's","Hershey's","Godiva",2.4,1.8,3.7,"Dark w/ Nuts","White","Milk",3,2535
+2415,9,"Dove","Dove","Ghirardelli",3.9,1.9,1.8,"Milk","Dark","Milk w/ Nuts",1,2616
+2415,10,"Lindt","Dove","Hershey's",3.7,1.1,1,"Milk","Milk","Milk",1,2529
+2415,11,"Godiva","Hershey's","Ghirardelli",3.3,3.3,0.6,"Dark","Dark","Dark w/ Nuts",1,2604
+2415,12,"Godiva","Ghirardelli","Lindt",1.6,1.1,1.3,"Milk","Dark w/ Nuts","Milk",3,2546
+2415,13,"Lindt","Ghirardelli","Lindt",2,3.5,3.7,"Dark","White","Milk w/ Nuts",1,1910
+2415,14,"Lindt","Godiva","Hershey's",1.9,3,0.6,"Milk w/ Nuts","Dark","Dark",1,3237
+2415,15,"Dove","Ghirardelli","Godiva",3,1.2,1.1,"Milk w/ Nuts","Dark w/ Nuts","White",2,2270
+2415,16,"Lindt","Ghirardelli","Dove",3.3,1.6,1.4,"Milk w/ Nuts","Dark w/ Nuts","Dark w/ Nuts",1,1830
+2415,17,"Lindt","Lindt","Godiva",3.3,2.8,0.9,"Dark w/ Nuts","Milk","Milk",2,2310
+2415,18,"Lindt","Hershey's","Hershey's",0.8,3.5,2,"Dark","Milk","Dark w/ Nuts",1,1906
+2415,19,"Godiva","Dove","Ghirardelli",3.3,3.1,2.9,"Dark","Milk w/ Nuts","Dark w/ Nuts",1,2096
+2415,20,"Lindt","Lindt","Dove",1.2,1.5,0.9,"Dark w/ Nuts","White","Dark",3,2861
+2415,21,"Hershey's","Lindt","Hershey's",2.2,3.3,1.9,"White","Dark w/ Nuts","Milk",2,2761
+2415,22,"Dove","Ghirardelli","Hershey's",3.4,3.3,3.8,"Milk","Dark","Dark",2,3127
+2415,23,"Ghirardelli","Hershey's","Hershey's",1.5,2.8,2.5,"Milk w/ Nuts","Dark","Milk w/ Nuts",2,2688
+2415,24,"Godiva","Ghirardelli","Ghirardelli",0.5,1.1,1.4,"White","Dark w/ Nuts","Dark",3,2654
+2415,25,"Godiva","Lindt","Ghirardelli",0.9,2.2,1,"Milk","Dark","Dark w/ Nuts",2,1736
+2417,1,"Dove","Godiva","Dove",0.6,0.7,3.6,"Milk","Dark","White",1,4719
+2417,2,"Godiva","Godiva","Hershey's",2.7,3.9,0.7,"Milk w/ Nuts","Dark","Milk w/ Nuts",1,5492
+2417,3,"Hershey's","Godiva","Hershey's",1.7,3.7,3,"Dark w/ Nuts","Dark","Dark",1,3749
+2417,4,"Lindt","Lindt","Ghirardelli",1,3.6,0.5,"Milk","Milk w/ Nuts","Dark w/ Nuts",3,3821
+2417,5,"Hershey's","Godiva","Hershey's",0.8,1.5,3.3,"Milk w/ Nuts","Dark","White",2,3809
+2417,6,"Lindt","Dove","Godiva",3.1,2.5,2.6,"Milk","White","Dark",3,3505
+2417,7,"Godiva","Dove","Godiva",3.1,4,2.1,"White","Dark w/ Nuts","Milk",3,6703
+2417,8,"Hershey's","Godiva","Godiva",0.8,3.2,1.1,"Dark w/ Nuts","White","Dark",3,3744
+2417,9,"Lindt","Godiva","Godiva",2.3,1.7,3.8,"Dark","Dark","White",2,3253
+2417,10,"Lindt","Godiva","Hershey's",0.6,0.8,3.7,"Milk w/ Nuts","Milk w/ Nuts","Dark",2,4583
+2417,11,"Godiva","Dove","Hershey's",1.6,0.7,1.2,"Milk","White","Dark w/ Nuts",3,5733
+2417,12,"Godiva","Dove","Lindt",1.1,0.8,3.7,"Dark w/ Nuts","Dark w/ Nuts","Dark",1,7833
+2417,13,"Dove","Lindt","Godiva",3,0.8,1.9,"Milk","White","White",2,4066
+2417,14,"Lindt","Dove","Dove",0.6,3.5,1.9,"Dark w/ Nuts","Milk","Milk w/ Nuts",1,5036
+2417,15,"Godiva","Ghirardelli","Dove",3.7,1.5,1.6,"Dark","Dark","Dark",2,3692
+2417,16,"Hershey's","Dove","Dove",0.5,3.8,3.7,"Milk w/ Nuts","Milk","Dark w/ Nuts",1,9106
+2417,17,"Dove","Dove","Lindt",3.9,1.2,0.5,"Milk","Milk w/ Nuts","Milk w/ Nuts",2,5411
+2417,18,"Godiva","Lindt","Godiva",2.8,2.7,2.6,"Milk w/ Nuts","Milk","White",2,4725
+2417,19,"Hershey's","Dove","Dove",3.7,4,2.8,"Milk","Dark w/ Nuts","Dark",3,2749
+2417,20,"Dove","Godiva","Hershey's",0.7,0.8,1.9,"Dark","White","Dark",1,3884
+2417,21,"Ghirardelli","Hershey's","Godiva",0.8,3,2.4,"Milk w/ Nuts","Milk","Milk w/ Nuts",1,5451
+2417,22,"Godiva","Dove","Hershey's",0.9,3.4,3.4,"Dark","Milk w/ Nuts","Dark w/ Nuts",1,3438
+2417,23,"Godiva","Dove","Dove",0.6,1.8,3.4,"Dark w/ Nuts","White","Dark",1,6070
+2417,24,"Hershey's","Godiva","Ghirardelli",3.6,3.2,1.4,"Dark w/ Nuts","Milk w/ Nuts","Milk w/ Nuts",3,7130
+2417,25,"Lindt","Ghirardelli","Lindt",1.1,0.8,2,"White","White","Milk",3,7315
